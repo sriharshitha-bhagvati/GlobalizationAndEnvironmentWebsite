@@ -244,7 +244,7 @@ a.credit {
 }
 
 #globenv {															/* 3 Chris Neal */
-	background: url("C:/Users/Sriharshitha/Desktop/CAC/sa-project/pollutionbg.png") 50% 0 no-repeat fixed;
+	background: url("pollutionbg.png") 50% 0 no-repeat fixed;
     margin: 0px;
     background-color: black;
 }
@@ -288,7 +288,7 @@ a.credit {
 	}
 	
 #environ {															/* 5 Frank Stockton */
-	background: url("C:/Users/Sriharshitha/Desktop/CAC/sa-project/mncs-day.png") 20% 0  repeat fixed;
+	background: url("mncs-day.png") 20% 0  repeat fixed;
 	background-color: black;
 	}
 
@@ -313,7 +313,7 @@ a.credit {
 		}
 
 #powercons {															/* 5 Frank Stockton */
-	background: url("C:/Users/Sriharshitha/Desktop/CAC/sa-project/mncs-night.png") 20% 0  repeat fixed;
+	background: url("mncs-night.png") 20% 0  repeat fixed;
 	background-color: black;
 	}
 
@@ -338,7 +338,7 @@ a.credit {
 		}
 		
 #globnight {															/* 5 Frank Stockton */
-	background: url("C:/Users/Sriharshitha/Desktop/CAC/sa-project/nasa-earth-at-night.png") 20% 0  repeat fixed;
+	background: url("nasa-earth-at-night.png") 20% 0  repeat fixed;
 	background-color: black;
 	}
 
@@ -749,7 +749,7 @@ a.credit {
 		}
 	
 	#invitation .c {
-		background: url("C:/Users/Sriharshitha/Desktop/CAC/sa-project/lastinvitation.png") 50% 0 no-repeat;
+		background: url("lastinvitation.png") 50% 0 no-repeat;
 		height: 671px;
 		width: 100%;
 		margin-top: 600px;
